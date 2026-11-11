@@ -14,7 +14,7 @@ Prever, a partir de informações disponíveis apenas no primeiro atendimento (s
 ## Dados
 
 - **Fonte:** SINAN/DATASUS, notificações de dengue de São Paulo, 2025.
-- **Link:** https://dadosabertos.saude.gov.br/dataset/arboviroses-dengue
+- **Link:** https://dadosabertos.saude.gov.br/dataset/arboviroses-dengue/resource/5c9132a9-77c2-4b15-8afc-a43c58fc9ec0
 - **Escopo:** casos confirmados (`CLASSI_FIN` ∈ {10, 11, 12} — Dengue, Dengue com sinais de alarme, Dengue grave). Ver nota sobre codificação no notebook.
 - O dataset bruto não está versionado neste repositório por tamanho (~450 MB). Baixe pelo link acima e ajuste o caminho no notebook.
 
