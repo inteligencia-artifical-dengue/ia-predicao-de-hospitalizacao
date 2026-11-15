@@ -6,7 +6,7 @@ Professor: Dr. Leandro Zerbinatti.
 | Documentos | Links |
 |---|---|
 | **Relatório** | [`Predição___Dengue.pdf`](./Predição___Dengue.pdf) |
-| **Vídeo de apresentação** | [Vídeo do YouTube](link) |
+| **Vídeo de apresentação** | [`Vídeo do YouTube`](link) |
 | **Notebooks** | [`dengue_IA/notebooks/`](./dengue_IA/notebooks) |
 
 ## Integrantes
@@ -55,7 +55,7 @@ O melhor modelo, **Gradient Boosting**, alcançou **AUC-ROC de 0,753** e **AUC-P
 - **Sinais e sintomas:** febre, mialgia, cefaleia, exantema, vômito, náusea, dor retro-orbital, dor nas costas, petéquias, leucopenia, artrite, artralgia, conjuntivite, prova do laço.
 - **Comorbidades:** diabetes, hipertensão, doença hematológica, renal, hepática, autoimune, doença ácido-péptica.
 
-### Variáveis deliberadamente excluídas
+### Variáveis excluídas
 
 | Variável | Motivo |
 |---|---|
