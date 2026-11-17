@@ -6,7 +6,7 @@ Professor: Dr. Leandro Zerbinatti.
 | Documentos | Links |
 |---|---|
 | **Relatório** | [`Predição___Dengue.pdf`](./Predição___Dengue.pdf) |
-| **Vídeo de apresentação** | [`Vídeo do YouTube`](link) |
+| **Vídeo de apresentação** | [`Vídeo do YouTube`]([link](https://www.youtube.com/watch?v=GBB3h-Tl3-A)) |
 | **Notebooks** | [`dengue_IA/notebooks/`](./dengue_IA/notebooks) |
 
 ## Integrantes
